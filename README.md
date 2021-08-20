@@ -10,15 +10,15 @@ Step2 - download the face-api.min.js
 
 Download the face-api.min.js code from the following URL and paste it inside the js/face-api.min.js file.
 
-https://raw.githubusercontent.com/karkranikhil/face-recognition-using-js/master/js/face-api.min.js
 
+https://github.com/MOHINIM19/
 Step3 - download the modal files
 
 Models are the trained data that we will use to detect the feature from the face.
 
 Download the files from the following URL and placed them inside the models folder.
 
-https://github.com/karkranikhil/face-recognition-using-js/tree/master/models
+https://github.com/MOHINIM19
 
 Step4 - Let's built the index.html file.
 
