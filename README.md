@@ -12,6 +12,7 @@ Download the face-api.min.js code from the following URL and paste it inside the
 
 
 https://github.com/MOHINIM19/
+
 Step3 - download the modal files
 
 Models are the trained data that we will use to detect the feature from the face.
