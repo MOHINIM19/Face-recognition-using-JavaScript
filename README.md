@@ -43,5 +43,5 @@ Step6 - Let's Add the style to the app.
 
 Replace the style.css 
 
-Step7 - Let's run the app by the live server or http-server.
+Step7 - Let's run the app by the live server or http-server
 
